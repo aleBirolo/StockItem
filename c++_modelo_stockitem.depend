@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1653928039 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\modelos de parcial\c++_modelo_stockitem\main.cpp
+	<iostream>
+	"StockItem.h"
+
+1653928586 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\modelos de parcial\c++_modelo_stockitem\stockitem.cpp
+	"StockItem.h"
+
+1653926061 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\modelos de parcial\c++_modelo_stockitem\stockitem.h
+	<iostream>
+	<string.h>
+
+1653926061 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\modelos de parcial\c++_modelo_stockitem\stockitem.h
+	<iostream>
+	<string.h>
+
